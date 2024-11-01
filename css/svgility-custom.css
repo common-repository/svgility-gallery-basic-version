@@ -1,0 +1,87 @@
+.post-type-svgility_gallery .shortcode.column-shortcode > span {
+	display: block;
+}
+
+.post-type-svgility_gallery .leadimage.column-leadimage > a {
+    display: inline-block;
+}
+
+.post-type-svgility_gallery .svgimagethumb {
+	width:100px;
+	height:auto;
+	display:block;
+}
+
+.post-type-svgility_gallery .svgshortcode {
+    display: inline-block;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+	text-decoration:none;
+}
+
+.post-type-svgility_gallery .svgshortcode:hover {
+    background: #ddd;
+    color: #4E9CAF;
+}
+
+.post-type-svgility_gallery .svgshortcode:active {
+    background: #000;
+    color: #fff;
+}
+
+/*Settings Box*/
+.post-type-svgility_gallery .carbon-group-row .carbon-drag-handle,
+.post-type-svgility_gallery .carbon-Separator,
+.post-type-svgility_gallery .carbon-groups-holder > .carbon-group-row > .fields-container > .carbon-Separator {
+	background: #353535;
+}
+
+.post-type-svgility_gallery .carbon-group-actions a::before {
+	color:#888;
+}
+
+.post-type-svgility_gallery .carbon-group-row .carbon-drag-handle .group-number,
+.post-type-svgility_gallery .carbon-group-row .carbon-drag-handle .group-name,
+.post-type-svgility_gallery .carbon-Separator h3, 
+.post-type-svgility_gallery #poststuff .carbon-Separator h3 {
+	color:#fff;
+}
+
+.post-type-svgility_gallery .carbon-Separator h3, 
+.post-type-svgility_gallery #poststuff .carbon-Separator h3 {
+	font-size:24px;
+}
+
+.post-type-svgility_gallery .carbon-Complex .carbon-field label,
+.post-type-svgility_gallery .carbon-field label {
+	font-size:20px;
+}
+
+.post-type-svgility_gallery input[type="text"],
+.post-type-svgility_gallery input[type="search"],
+.post-type-svgility_gallery input[type="radio"],
+.post-type-svgility_gallery input[type="tel"],
+.post-type-svgility_gallery input[type="time"],
+.post-type-svgility_gallery input[type="url"],
+.post-type-svgility_gallery input[type="week"],
+.post-type-svgility_gallery input[type="password"],
+.post-type-svgility_gallery input[type="checkbox"],
+.post-type-svgility_gallery input[type="color"],
+.post-type-svgility_gallery input[type="date"],
+.post-type-svgility_gallery input[type="datetime"],
+.post-type-svgility_gallery input[type="datetime-local"],
+.post-type-svgility_gallery input[type="email"],
+.post-type-svgility_gallery input[type="month"],
+.post-type-svgility_gallery input[type="number"],
+.post-type-svgility_gallery select,
+.post-type-svgility_gallery textarea {
+	color:#000080;
+}
+
+.post-type-svgility_gallery .help-text {
+	color:#800000;
+}
